@@ -8,7 +8,6 @@ import (
 
 	"github.com/htqhuy2002/simplebank/util"
 	"github.com/stretchr/testify/require"
-	_ "github.com/stretchr/testify/require"
 )
 
 func createRandomAccount(t *testing.T) Account {
